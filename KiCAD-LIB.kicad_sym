@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AlfredLib:WSON-10"
 			(at -4.318 16.256 0)
 			(effects
 				(font
@@ -263,7 +263,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AlfredLib:VQFN-3.0x2.5"
 			(at 2.032 4.572 0)
 			(effects
 				(font
